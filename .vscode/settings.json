@@ -1,0 +1,13 @@
+
+{
+  "python.analysis.typeCheckingMode": "off",                // Disable strict type checking
+  "python.analysis.diagnosticMode": "workspace",            // Only check open files or workspace files
+  "python.analysis.useLibraryCodeForTypes": true,           // Better intellisense with libraries
+  "python.analysis.autoSearchPaths": true,                  // Automatically add import paths
+  "python.analysis.indexing": true,                         // Enable indexing for better performance
+  "python.analysis.logLevel": "Error",                      // Only show errors
+  "python.analysis.autoImportCompletions": true,            // Suggest auto-imports
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/"                                   // Add project root to import path
+  ]
+}

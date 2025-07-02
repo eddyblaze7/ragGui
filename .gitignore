@@ -1,0 +1,21 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore text files
+*.txt
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore Word documents
+*.docx
+*.doc
+
+# But keep these important files
+!README.txt
+!requirements.txt
+
+# Folders
+data/
+models/
