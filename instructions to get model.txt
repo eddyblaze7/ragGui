@@ -1,5 +1,6 @@
-A. Download LLaMa 2 GGUF Model
-Visit TheBloke’s Hugging Face models and download a LLaMa 2 GGUF model (e.g., LLaMa-2-7B-Chat-GGUF quantized .gguf file).
+# Download LLaMa 2 GGUF Model
+
+Visit TheBloke’s Hugging Face models (https://huggingface.co/TheBloke) and download a LLaMa 2 GGUF model (e.g., LLaMa-2-7B-Chat-GGUF quantized .gguf file).
 
 Place it in a folder like:
 ./models/llama-2-7b-chat.gguf
@@ -13,5 +14,6 @@ you then create a primary directory called 'models' and place the model in it . 
 
 
 #Loading of Documents
+
 After cloning this repo, you create a primary directory called 'data' and copy and paste all your documents
 in there
