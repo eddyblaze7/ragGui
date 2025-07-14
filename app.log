@@ -384,3 +384,26 @@ TypeError: QueryEngine.__init__() got an unexpected keyword argument 'vector_sto
 2025-06-20 13:23:21,854 [ERROR] Failed to load file data\Corporate Laws_Unit 06.pdf: cryptography>=3.1 is required for AES algorithm
 2025-06-20 13:23:57,029 [ERROR] Failed to load file data\OM All in One.pdf: 'TextChunker' object has no attribute 'chunk'
 2025-06-20 13:23:57,039 [INFO] Indexing complete.
+2025-07-14 09:12:19,134 [INFO] Load pretrained SentenceTransformer: hkunlp/instructor-base
+2025-07-14 09:12:40,423 [INFO] Use pytorch device: cpu
+2025-07-14 09:14:13,213 [INFO] Load pretrained SentenceTransformer: hkunlp/instructor-base
+2025-07-14 09:14:20,579 [INFO] Use pytorch device: cpu
+2025-07-14 09:15:08,834 [INFO] Loading and indexing documents...
+2025-07-14 09:15:09,203 [ERROR] Failed to load file data\CORPORATE LAW 1.pdf: 'TextChunker' object has no attribute 'chunk'
+2025-07-14 09:15:21,233 [ERROR] Failed to load file data\CORPORATE LAW 2.pdf: 'TextChunker' object has no attribute 'chunk'
+2025-07-14 09:15:21,286 [ERROR] Failed to load file data\Corporate Laws_04.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,319 [ERROR] Failed to load file data\Corporate Laws_07.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,348 [ERROR] Failed to load file data\Corporate Laws_08.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,376 [ERROR] Failed to load file data\Corporate Laws_09.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,403 [ERROR] Failed to load file data\Corporate Laws_10.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,433 [ERROR] Failed to load file data\Corporate Laws_12.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,463 [ERROR] Failed to load file data\Corporate Laws_13.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,493 [ERROR] Failed to load file data\Corporate Laws_14.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,523 [ERROR] Failed to load file data\Corporate Laws_15.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,553 [ERROR] Failed to load file data\Corporate Laws_Unit 01.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,577 [ERROR] Failed to load file data\Corporate Laws_Unit 02.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,605 [ERROR] Failed to load file data\Corporate Laws_Unit 03.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,633 [ERROR] Failed to load file data\Corporate Laws_Unit 05.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:21,663 [ERROR] Failed to load file data\Corporate Laws_Unit 06.pdf: cryptography>=3.1 is required for AES algorithm
+2025-07-14 09:15:57,953 [ERROR] Failed to load file data\OM All in One.pdf: 'TextChunker' object has no attribute 'chunk'
+2025-07-14 09:15:57,975 [INFO] Indexing complete.
